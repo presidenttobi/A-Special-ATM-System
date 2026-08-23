@@ -1,0 +1,26 @@
+[
+    {
+        "account_number": "5",
+        "service": "Water",
+        "reference": "55",
+        "amount": 344554.0
+    },
+    {
+        "account_number": "000000000",
+        "service": "Cable TV",
+        "reference": "2",
+        "amount": 1234567890.0
+    },
+    {
+        "account_number": "000000000",
+        "service": "Airtime",
+        "reference": "3",
+        "amount": 2500.0
+    },
+    {
+        "account_number": "0064989328",
+        "service": "Cable TV",
+        "reference": "4",
+        "amount": 90.0
+    }
+]

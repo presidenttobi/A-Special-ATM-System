@@ -1,0 +1,47 @@
+[
+    {
+        "name": "2",
+        "account_number": "3",
+        "pin": "4504",
+        "balance": 20044.0,
+        "locked": false,
+        "last_login": "Never",
+        "daily_withdrawal": 0
+    },
+    {
+        "name": "5",
+        "account_number": "5",
+        "pin": "7377",
+        "balance": 5555197680.0,
+        "locked": false,
+        "last_login": "16/08/2026 06:31 PM",
+        "daily_withdrawal": 13000.0
+    },
+    {
+        "name": "PDUNAIKE",
+        "account_number": "787",
+        "pin": "2222",
+        "balance": 3326556.0,
+        "locked": false,
+        "last_login": "15/08/2026 07:12 PM",
+        "daily_withdrawal": 0
+    },
+    {
+        "name": "Yinka Ololade",
+        "account_number": "000000000",
+        "pin": "1122",
+        "balance": 299997500.0,
+        "locked": false,
+        "last_login": "16/08/2026 06:20 PM",
+        "daily_withdrawal": 1000.0
+    },
+    {
+        "name": "Uchenna Maureen Odunaike",
+        "account_number": "0064989328",
+        "pin": "0170",
+        "balance": 999910.0,
+        "locked": false,
+        "last_login": "16/08/2026 07:11 PM",
+        "daily_withdrawal": 0
+    }
+]

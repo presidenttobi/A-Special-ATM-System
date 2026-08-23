@@ -1,0 +1,87 @@
+[
+    {
+        "type": "Deposit",
+        "amount": 5555555555.0,
+        "account_number": "5"
+    },
+    {
+        "type": "Withdrawal",
+        "amount": 4000.0,
+        "denomination": 200,
+        "notes": 20,
+        "account_number": "5"
+    },
+    {
+        "type": "Bill Payment",
+        "service": "Water",
+        "amount": 344554.0,
+        "account_number": "5"
+    },
+    {
+        "type": "Crypto Purchase",
+        "amount": 6777.0,
+        "bitcoin": 6.777e-05,
+        "account_number": "787"
+    },
+    {
+        "type": "Withdrawal",
+        "amount": 1000.0,
+        "denomination": 200,
+        "notes": 5,
+        "account_number": "000000000"
+    },
+    {
+        "type": "Crypto Purchase",
+        "amount": 100000000.0,
+        "bitcoin": 1.0,
+        "account_number": "000000000"
+    },
+    {
+        "type": "Bill Payment",
+        "service": "Cable TV",
+        "amount": 1234567890.0,
+        "account_number": "000000000"
+    },
+    {
+        "type": "Bill Payment",
+        "service": "Airtime",
+        "amount": 2500.0,
+        "account_number": "000000000"
+    },
+    {
+        "type": "Transfer Sent",
+        "amount": 20000.0,
+        "receiver": "3",
+        "account_number": "000000000"
+    },
+    {
+        "type": "Transfer Received",
+        "amount": 20000.0,
+        "sender": "000000000",
+        "account_number": "3"
+    },
+    {
+        "type": "Withdrawal",
+        "amount": 9000.0,
+        "denomination": 100,
+        "notes": 90,
+        "account_number": "5"
+    },
+    {
+        "type": "Deposit",
+        "amount": 23.0,
+        "account_number": "5"
+    },
+    {
+        "type": "Crypto Purchase",
+        "amount": 345.0,
+        "bitcoin": 3.45e-06,
+        "account_number": "5"
+    },
+    {
+        "type": "Bill Payment",
+        "service": "Cable TV",
+        "amount": 90.0,
+        "account_number": "0064989328"
+    }
+]
