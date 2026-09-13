@@ -43,5 +43,23 @@
         "locked": false,
         "last_login": "16/08/2026 07:11 PM",
         "daily_withdrawal": 0
+    },
+    {
+        "name": "bayo odunaike",
+        "account_number": "0001",
+        "pin": "1111",
+        "balance": 9000.0,
+        "locked": false,
+        "last_login": "05/09/2026 06:34 PM",
+        "daily_withdrawal": 1000.0
+    },
+    {
+        "name": "bayoo o",
+        "account_number": "0011",
+        "pin": "1112",
+        "balance": 1e+26,
+        "locked": false,
+        "last_login": "05/09/2026 06:23 PM",
+        "daily_withdrawal": 0
     }
 ]

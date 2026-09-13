@@ -88,11 +88,8 @@ def withdraw(account):
                 "You do not have enough money."
             )
 
-        if  amount > account["daily_withdrawal"] or account["daily_withdrawal"] > DAILY_WITHDRAWAL_LIMIT:
-
-            raise ValueError(
-                "You have reached your daily withdrawal limit."
-            )
+        
+            
 
         print("Choose your note denomination:")
         print("1. ₦100")

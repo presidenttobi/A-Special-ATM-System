@@ -83,5 +83,12 @@
         "service": "Cable TV",
         "amount": 90.0,
         "account_number": "0064989328"
+    },
+    {
+        "type": "Withdrawal",
+        "amount": 1000.0,
+        "denomination": 100,
+        "notes": 10,
+        "account_number": "0001"
     }
 ]
